@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_main"
+        android:icon="@drawable/glyph"
+        android:title="@string/main_screen" />
+    <item android:id="@+id/nav_selection"
+        android:icon="@drawable/selection"
+        android:title="@string/selection"/>
+    <item android:id="@+id/nav_favorite"
+        android:icon="@drawable/uil_favorite"
+        android:title="@string/favorite"/>
+    <item android:id="@+id/nav_account"
+        android:icon="@drawable/glyph"
+        android:title="@string/profile"/>
+</menu>

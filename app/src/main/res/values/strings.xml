@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CinemaProject</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="world_cinema">WorldCinema</string>
+    <string name="favorite">Коллекции</string>
+    <string name="selection">Подборка</string>
+    <string name="main_screen">Главное</string>
+    <string name="profile">Профиль</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
